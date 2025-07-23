@@ -44,7 +44,7 @@ Pkg.add([
 ])
 ```
 
-## USage
+## Usage
 
 ```bash
 ./random_walk_incremental/incremental_update <graph_name> <distortion_threshold> <#walkers>
